@@ -1,0 +1,9 @@
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\UniversityIot.VitocontrolApi.Tests.dll
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\Castle.Core.dll
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\Moq.dll
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\nunit.framework.dll
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\Castle.Core.xml
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\Moq.xml
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\bin\Production\nunit.framework.xml
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\obj\Production\UniversityIot.VitocontrolApi.Tests.csprojResolveAssemblyReference.cache
+G:\Programowanie\IoT Zarzadzanie\UniversityIot\Source\UniversityIot.VitocontrolApi.Tests\obj\Production\UniversityIot.VitocontrolApi.Tests.dll
