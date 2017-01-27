@@ -1,0 +1,33 @@
+.login-container {
+  
+  .input-group {
+    margin: 10px 0;
+
+    label {
+      display: block;
+    }
+
+
+    input {
+      padding: 5px;
+      width: 300px;
+      padding: 12px 20px;
+      margin: 8px 0;
+      box-sizing: border-box;
+      border: 1px solid #d4d4d4;
+    }
+
+    input:focus {
+        outline: none;
+        border: 1px solid #e63c3c;
+      }
+  }
+
+  .button {
+    background-color: #e63c3c;
+    border: none;
+    padding: 10px 30px;
+    width: 100%;
+    color: #f4f4f4;
+  }
+}
